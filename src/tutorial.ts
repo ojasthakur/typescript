@@ -8,4 +8,4 @@ const someObject: someValue = {
   age: 20,
 };
 
-console.log(someObject);
+console.log(someObject, "hello world");
