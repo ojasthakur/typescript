@@ -1,6 +1,8 @@
 {
   "name": "typescript-vite-app",
-  "cosmic": "vite",
+  "cloud": {
+    "framework": "vite"
+  },
   "build": {
     "command": "npm run build",
     "output": "dist"
